@@ -39,7 +39,7 @@
 ---
 
 
-[![Javier's github stats](https://github-readme-stats-theta-sandy.vercel.app/api?username=javrodri42)](https://github.com/javrodri42)[![Top Langs](https://github-readme-stats.javrodri42.vercel.app/api?username=javrodri42&layout=compact)](https://github.com/javrodri42)
+[![Javier's github stats](https://github-readme-stats-theta-sandy.vercel.app/api?username=javrodri42&count_private=true)](https://github.com/javrodri42)[![Top Langs](https://github-readme-stats.javrodri42.vercel.app/api?username=javrodri42&layout=compact)](https://github.com/javrodri42)
 
 [github]: https://github.com/javrodri42?tab=repositories
 [42website]: https://42madrid.com/
