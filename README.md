@@ -1,15 +1,13 @@
-### Hi there, I'm Javier - aka [javrodri] 👋
+### Hello World!, I'm Javier - aka [javrodri] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I´m developer
 
-- 🔭 I’m currently studying at [#42Madrid][42website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn a little more 
-- ⚡ Fun fact: I always carry a reel camera in my backpack
+-  Now i´m studying at [#42Madrid][42website]!
+-  I’m currently learning everything that i can
+-  2020 Goals: Learn a little more 
+-  Fun fact: I always carry a reel camera in my backpack
 <br />
 <br />
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/goldeng91)
 
 ### Connect with me:
 
