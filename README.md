@@ -1,6 +1,6 @@
 ### Hello World!, I'm Javier - aka [javrodri] 👋
 
-## I´m developer
+## I am a developer. What do I develop? Stuff.....
 
 -  Now i´m studying at [#42Madrid][42website]!
 -  I’m currently learning everything that i can
