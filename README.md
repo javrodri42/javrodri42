@@ -33,8 +33,8 @@
 <br />
 
 ---
-
-
+[![javrodri's 42 stats](https://badge42.herokuapp.com/api/stats/javrodri)](https://github.com/JaeSeoKim/badge42)
+<br/>
 [![Javier's github stats](https://github-readme-stats.javrodri42.vercel.app/api?username=javrodri42&count_private=true)](https://github.com/javrodri42)[![Top Langs](https://github-readme-stats.javrodri42.vercel.app/api/top-langs?username=javrodri42&layout=compact)](https://github.com/javrodri42)
 
 [github]: https://github.com/javrodri42?tab=repositories
