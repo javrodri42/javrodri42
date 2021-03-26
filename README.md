@@ -7,7 +7,7 @@
 -  2021 Goals: Learn a little more 
 -  Fun fact: I always carry a reel camera in my backpack
 <br />
-![](https://komarev.com/ghpvc/?username=javrodri42)
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 <br />
 ### Connect with me:
 
