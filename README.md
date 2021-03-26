@@ -7,8 +7,7 @@
 -  2021 Goals: Learn a little more 
 -  Fun fact: I always carry a reel camera in my backpack
 <br />
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-<br />
+
 ### Connect with me:
 
 [<img align="left" alt="javrodri42.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
@@ -32,6 +31,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 <br />
 
